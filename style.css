@@ -27,6 +27,7 @@ body {
   background-color: #1F2937;
   text-decoration: none;
   height: 50px;
+  width: 1380px;
 }
 
 li,
@@ -229,5 +230,5 @@ ul {
   height: 70px;
   display: flex;
   align-items: center;
-  color: #eee; 
+  color: #eee;
 }
