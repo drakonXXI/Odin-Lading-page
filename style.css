@@ -140,3 +140,32 @@ button {
   border: 4px solid #3b82f6;
   border-radius: 20px;
 }
+
+/* quote */
+.quote {
+  background-color: #E5E7EB;
+  height: 330px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.quote q {
+  font-size: 36px;
+  font-style: oblique;
+  color: #1F2937;
+  /* border: 4px solid black; */
+  width: 780px;
+}
+
+.quote p {
+  font-weight: 800;
+  font-size: 22px;
+  color: #1f2937;
+  display: flex;
+  justify-content: flex-end;
+  width: 700px;
+
+  /* border: 4px solid black; */
+}
