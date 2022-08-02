@@ -224,3 +224,10 @@ ul {
   font-size: 17px;
   font-weight: bold;
 }
+
+.footer {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  color: #eee; 
+}
