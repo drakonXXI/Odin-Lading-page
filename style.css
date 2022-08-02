@@ -5,7 +5,10 @@
 }
 
 body {
-  /* background-color:#1F2937; */
+  background-color:#1F2937;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .logo {
@@ -108,6 +111,9 @@ ul {
 /* information */
 .information {
   height: 480px;
+  width: 1200px;
+  /* border: 4px solid black; */
+  background-color: #eee;
 }
 
 .information h1 {
@@ -143,6 +149,7 @@ ul {
 
 /* quote */
 .quote {
+  width: 1200px;
   background-color: #E5E7EB;
   height: 330px;
   display: flex;
@@ -174,10 +181,12 @@ ul {
 /* call to action  */
 
 .call-to-action {
+  width: 1200px;
   height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: #eee;
 }
 
 .banner {
