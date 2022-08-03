@@ -219,6 +219,11 @@ ul {
   color: #eee;
 }
 
+.center-banner img {
+  height: auto;
+  width: 300px;
+}
+
 .sign-up {
   background-color: #3b82f6;
   color: #eee;
