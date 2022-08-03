@@ -44,9 +44,10 @@ a {
 ul {
   font-size: 20px;
   display: flex;
-  width: 280px;
+  width: 380px;
   justify-content: space-around;
   background-color: #6e682b;
+  font-family: monospace;
 }
 
 /* hero */
@@ -95,6 +96,7 @@ ul {
 .left-text {
   width: 390px;
   font-size: 18px;
+  font-family: monospace;
 }
 
 .left-hero button {
@@ -219,9 +221,14 @@ ul {
   color: #eee;
 }
 
+.left-banner p {
+  font-family: monospace;
+}
+
 .center-banner img {
   height: auto;
   width: 300px;
+  filter: drop-shadow(10px 10px 10px rgb(0 0 0 / 0.4));
 }
 
 .sign-up {
