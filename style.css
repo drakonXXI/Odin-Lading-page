@@ -83,9 +83,9 @@ ul {
 }
 
 .right-hero img {
-  height: 410px;
+  height: 370px;
   width: auto;
-  filter: drop-shadow(10px 4px 60px rgb(0 0 0 / 0.6));
+  filter: drop-shadow(20px 10px 20px rgb(0 0 0 / 0.6));
 }
 
 .left-hero h1 {
@@ -145,8 +145,12 @@ ul {
   flex-direction: column;
   text-align: center;
   width: 160px;
-  color: #565f6c;
+  color: black;
   align-items: center;
+}
+
+.item-container p {
+  font-size: 20px;
 }
 
 .item {
@@ -205,7 +209,7 @@ ul {
 }
 
 .banner {
-  background-color: #3b82f6;
+  background-color: #665025;
   display: flex;
   height: 130px;
   width: 1000px;
@@ -229,7 +233,7 @@ ul {
 }
 
 .sign-up {
-  background-color: #3b82f6;
+  background-color: #6e682b;
   color: #eee;
   width: 140px;
   height: 37px;
