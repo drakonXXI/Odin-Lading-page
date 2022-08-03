@@ -16,13 +16,11 @@ body {
 .logo {
   display: flex;
   margin-left: 40px;
-  /* border: 4px solid black; */
   height: 100px;
   align-self: flex-flex-end;
 }
 
 .header{
-  /* border: 4px solid black; */
   margin-right: 25px;
   display: flex;
   justify-content: space-around;
@@ -46,7 +44,6 @@ a {
 ul {
   font-size: 20px;
   display: flex;
-  /* border: 4px solid black; */
   width: 280px;
   justify-content: space-around;
   background-color: #6e682b;
@@ -56,7 +53,6 @@ ul {
 
 .hero {
   display: flex;
-  /* border: 4px solid black; */
   height: 400px;
   background-color: #6e682b;
   align-items: center;
@@ -68,14 +64,12 @@ ul {
   display: flex;
   flex-direction: column;
   width: 450px;
-  /* border: 4px solid red; */
   height: 220px;
 }
 
 .right-hero {
   display: flex;
   width: 450px;
-  /* border: 4px solid blue; */
   height: 220px;
   background-color: #6e682b;
   align-items: center;
@@ -92,7 +86,6 @@ ul {
   font-size: 48px;
   display: flex;
   flex-wrap:wrap;
-  /* border: 4px solid black; */
   width: 310px;
   height: 105px;
   font-weight: 800;
@@ -121,7 +114,6 @@ ul {
 /* information */
 .information {
   height: 580px;
-  /* border: 4px solid black; */
   background-color: #eee;
 }
 
@@ -140,7 +132,6 @@ ul {
 }
 
 .item-container {
-  /* border: 4px solid black; */
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -183,7 +174,6 @@ ul {
   font-size: 32px;
   font-style: oblique;
   color: #1F2937;
-  /* border: 4px solid black; */
   width: 780px;
 }
 
@@ -194,7 +184,6 @@ ul {
   display: flex;
   justify-content: flex-end;
   width: 700px;
-  /* border: 4px solid black; */
 }
 
 
@@ -213,14 +202,12 @@ ul {
   display: flex;
   height: 130px;
   width: 1000px;
-  /* border: 4px solid red; */
   align-items: center;
   justify-content: center;
   border-radius: 8px;
 }
 
 .center-banner {
-  /* border: 4px solid black; */
   height: 100px;
   width: 800px;
   display: flex;
